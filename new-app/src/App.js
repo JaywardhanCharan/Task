@@ -1,17 +1,19 @@
 import Navbar from "./components/Navbar";
 import Content from "./components/Content";
-import NewContent from "./components/NewContent";
-import NewNavbar from "./components/NewNavbar";
-import Morecomponentstocome from "./components/Morecomponentstocome";
+import SecondContent from "./components/SecondContent";
+import ThirdContent from "./components/ThirdContent";
+import FourthContent from "./components/FourthContent";
+import FinalContent from "./components/FinalContent";
 
 function App() {
   return (
     <div>
       <Navbar />
       <Content />
-      <NewContent />
-      <NewNavbar />
-      <Morecomponentstocome />
+      <SecondContent />
+      <ThirdContent />
+      <FourthContent />
+      <FinalContent />
     </div>
       
   );
