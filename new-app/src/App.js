@@ -31,6 +31,18 @@ function AppLayout() {
           <section>
             <FourthContent />
           </section>
+
+                  <section>
+            <FifthContent />
+          </section>
+
+                  <section>
+            <SixthContent />
+          </section>
+
+                  <section>
+            <SeventhContent />
+          </section>
         </Suspense>
       </main>
 
